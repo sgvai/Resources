@@ -1,5 +1,12 @@
 # Resources
 
+# SW Frameworks
+* [PyTorch](https://pytorch.org/get-started/locally/)
+* [TensorFlow](https://www.tensorflow.org/tutorials/)
+* [Caffe2](https://caffe2.ai/)
+* [Apache MXNet](https://mxnet.apache.org/)
+* [Theano](http://deeplearning.net/software/theano/introduction.html)
+
 # Cloud GPU Instances
 * [Google Cloud Platform](https://cloud.google.com/gpu/) - GPUs can be attached/detached from standard compute instances as needed.
 * [AWS](https://aws.amazon.com/ec2/elastic-gpus/)

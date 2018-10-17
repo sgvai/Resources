@@ -62,3 +62,10 @@
 * [LA City Data](https://data.lacity.org/)
 * [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 * [Awesome Public Datasets (github)](https://github.com/awesomedata/awesome-public-datasets)
+
+
+# References
+
+* [Categorizing scikit-learn functions by purpose](https://www.analyticsvidhya.com/infographics/Scikit-Learn-Infographic.pdf)
+* [Graphical clustering of estimators (scikit-learn)](skl-cheatsheet.md)
+
